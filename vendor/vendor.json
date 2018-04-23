@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/+tSSTMUuB8rJECWwRYe8wFDatk=",
+			"path": "github.com/agoussia/godes",
+			"revision": "a072bf999eff2feb6a0c15a3eaa520cb12dbb963",
+			"revisionTime": "2015-10-12T13:10:00Z"
+		}
+	],
+	"rootPath": "github.com/onuryilmaz/mm1-queue-simulator"
+}
